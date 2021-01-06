@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  plutext:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-06T04:29:54.360749259Z"
+    description: A Helm chart for Kubernetes
+    digest: c96cf9476e638bcab45334c72975dab0613d7bd58eda1a9d910bee7501bb357c
+    name: plutext
+    type: application
+    urls:
+    - plutext-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-06T04:29:54.359831035Z"
